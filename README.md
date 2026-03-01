@@ -7,7 +7,6 @@ Reviewing code manually for correctness, coding style, and optimization is time-
 ---
 
 ## 🎬 Project Demo
+Watch video
 
-<video width="800" controls>
-  <source src="https://github.com/sampada620/AI_Development11/releases/download/v1.0/demo.mp4" type="video/mp4">
-</video>
+[demo.mp4]
